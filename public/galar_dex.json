@@ -1,0 +1,4433 @@
+{
+  "001": {
+    "Abilities": [
+      "Overgrow", 
+      "Grassy Surge"
+    ], 
+    "Name": "Grookey", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "002": {
+    "Abilities": [
+      "Overgrow", 
+      "Grassy Surge"
+    ], 
+    "Name": "Thwackey", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "003": {
+    "Abilities": [
+      "Overgrow", 
+      "Grassy Surge"
+    ], 
+    "Name": "Rillaboom", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "004": {
+    "Abilities": [
+      "Blaze", 
+      "Libero"
+    ], 
+    "Name": "Scorbunny", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "005": {
+    "Abilities": [
+      "Blaze", 
+      "Libero"
+    ], 
+    "Name": "Raboot", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "006": {
+    "Abilities": [
+      "Blaze", 
+      "Libero"
+    ], 
+    "Name": "Cinderace", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "007": {
+    "Abilities": [
+      "Torrent", 
+      "Sniper"
+    ], 
+    "Name": "Sobble", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "008": {
+    "Abilities": [
+      "Torrent", 
+      "Sniper"
+    ], 
+    "Name": "Drizzile", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "009": {
+    "Abilities": [
+      "Torrent", 
+      "Sniper"
+    ], 
+    "Name": "Inteleon", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "010": {
+    "Abilities": [
+      "Swarm", 
+      "Compoundeyes", 
+      "Telepathy"
+    ], 
+    "Name": "Blipbug", 
+    "Types": [
+      "Bug"
+    ]
+  }, 
+  "011": {
+    "Abilities": [
+      "Swarm", 
+      "Compoundeyes", 
+      "Telepathy"
+    ], 
+    "Name": "Dottler", 
+    "Types": [
+      "Bug", 
+      "Psychic"
+    ]
+  }, 
+  "012": {
+    "Abilities": [
+      "Swarm", 
+      "Frisk", 
+      "Telepathy"
+    ], 
+    "Name": "Orbeetle", 
+    "Types": [
+      "Bug", 
+      "Psychic"
+    ]
+  }, 
+  "013": {
+    "Abilities": [
+      "Shield Dust", 
+      "Run Away"
+    ], 
+    "Name": "Caterpie", 
+    "Types": [
+      "Bug"
+    ]
+  }, 
+  "014": {
+    "Abilities": [
+      "Shed Skin"
+    ], 
+    "Name": "Metapod", 
+    "Types": [
+      "Bug"
+    ]
+  }, 
+  "015": {
+    "Abilities": [
+      "Compoundeyes", 
+      "Tinted Lens"
+    ], 
+    "Name": "Butterfree", 
+    "Types": [
+      "Bug", 
+      "Flying"
+    ]
+  }, 
+  "016": {
+    "Abilities": [
+      "Swarm"
+    ], 
+    "Name": "Grubbin", 
+    "Types": [
+      "Bug"
+    ]
+  }, 
+  "017": {
+    "Abilities": [
+      "Battery"
+    ], 
+    "Name": "Charjabug", 
+    "Types": [
+      "Bug", 
+      "Electric"
+    ]
+  }, 
+  "018": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Vikavolt", 
+    "Types": [
+      "Bug", 
+      "Electric"
+    ]
+  }, 
+  "019": {
+    "Abilities": [
+      "Insomnia", 
+      "Keen Eye", 
+      "Tinted Lens"
+    ], 
+    "Name": "Hoothoot", 
+    "Types": [
+      "Normal", 
+      "Flying"
+    ]
+  }, 
+  "020": {
+    "Abilities": [
+      "Insomnia", 
+      "Keen Eye", 
+      "Tinted Lens"
+    ], 
+    "Name": "Noctowl", 
+    "Types": [
+      "Normal", 
+      "Flying"
+    ]
+  }, 
+  "021": {
+    "Abilities": [
+      "Keen Eye", 
+      "Unnerve", 
+      "Big Pecks"
+    ], 
+    "Name": "Rookidee", 
+    "Types": [
+      "Flying"
+    ]
+  }, 
+  "022": {
+    "Abilities": [
+      "Keen Eye", 
+      "Unnerve", 
+      "Big Pecks"
+    ], 
+    "Name": "Corvisquire", 
+    "Types": [
+      "Flying"
+    ]
+  }, 
+  "023": {
+    "Abilities": [
+      "Pressure", 
+      "Unnerve", 
+      "Mirror Armor"
+    ], 
+    "Name": "Corviknight", 
+    "Types": [
+      "Flying", 
+      "Steel"
+    ]
+  }, 
+  "024": {
+    "Abilities": [
+      "Cheek Pouch", 
+      "Gluttony"
+    ], 
+    "Name": "Skwovet", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "025": {
+    "Abilities": [
+      "Cheek Pouch", 
+      "Gluttony"
+    ], 
+    "Name": "Greedent", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "026": {
+    "Abilities": [
+      "Big Pecks", 
+      "Super Luck", 
+      "Rivalry"
+    ], 
+    "Name": "Pidove", 
+    "Types": [
+      "Normal", 
+      "Flying"
+    ]
+  }, 
+  "027": {
+    "Abilities": [
+      "Big Pecks", 
+      "Super Luck", 
+      "Rivalry"
+    ], 
+    "Name": "Tranquill", 
+    "Types": [
+      "Normal", 
+      "Flying"
+    ]
+  }, 
+  "028": {
+    "Abilities": [
+      "Big Pecks", 
+      "Super Luck", 
+      "Rivalry"
+    ], 
+    "Name": "Unfezant", 
+    "Types": [
+      "Normal", 
+      "Flying"
+    ]
+  }, 
+  "029": {
+    "Abilities": [
+      "Run Away", 
+      "Unburden", 
+      "Stakeout"
+    ], 
+    "Name": "Nickit", 
+    "Types": [
+      "Dark"
+    ]
+  }, 
+  "030": {
+    "Abilities": [
+      "Run Away", 
+      "Unburden", 
+      "Stakeout"
+    ], 
+    "Name": "Thievul", 
+    "Types": [
+      "Dark"
+    ]
+  }, 
+  "031": {
+    "Abilities": [
+      "Pickup", 
+      "Gluttony", 
+      "Quick Feet"
+    ], 
+    "Name": "Zigzagoon", 
+    "Types": [
+      "Dark", 
+      "Normal"
+    ]
+  }, 
+  "032": {
+    "Abilities": [
+      "Pickup", 
+      "Gluttony", 
+      "Quick Feet"
+    ], 
+    "Name": "Linoone", 
+    "Types": [
+      "Dark", 
+      "Normal"
+    ]
+  }, 
+  "033": {
+    "Abilities": [
+      "Reckless", 
+      "Guts", 
+      "Defiant"
+    ], 
+    "Name": "Obstagoon", 
+    "Types": [
+      "Dark", 
+      "Normal"
+    ]
+  }, 
+  "034": {
+    "Abilities": [
+      "Fluffy", 
+      "Run Away", 
+      "Bulletproof"
+    ], 
+    "Name": "Wooloo", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "035": {
+    "Abilities": [
+      "Fluffy", 
+      "Steadfast", 
+      "Bulletproof"
+    ], 
+    "Name": "Dubwool", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "036": {
+    "Abilities": [
+      "Swift Swim", 
+      "Rain Dish", 
+      "Own Tempo"
+    ], 
+    "Name": "Lotad", 
+    "Types": [
+      "Water", 
+      "Grass"
+    ]
+  }, 
+  "037": {
+    "Abilities": [
+      "Swift Swim", 
+      "Rain Dish", 
+      "Own Tempo"
+    ], 
+    "Name": "Lombre", 
+    "Types": [
+      "Water", 
+      "Grass"
+    ]
+  }, 
+  "038": {
+    "Abilities": [
+      "Swift Swim", 
+      "Rain Dish", 
+      "Own Tempo"
+    ], 
+    "Name": "Ludicolo", 
+    "Types": [
+      "Water", 
+      "Grass"
+    ]
+  }, 
+  "039": {
+    "Abilities": [
+      "Chlorophyll", 
+      "Early Bird", 
+      "Pickpocket"
+    ], 
+    "Name": "Seedot", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "040": {
+    "Abilities": [
+      "Chlorophyll", 
+      "Early Bird", 
+      "Pickpocket"
+    ], 
+    "Name": "Nuzleaf", 
+    "Types": [
+      "Grass", 
+      "Dark"
+    ]
+  }, 
+  "041": {
+    "Abilities": [
+      "Chlorophyll", 
+      "Early Bird", 
+      "Pickpocket"
+    ], 
+    "Name": "Shiftry", 
+    "Types": [
+      "Grass", 
+      "Dark"
+    ]
+  }, 
+  "042": {
+    "Abilities": [
+      "Strong Jaw", 
+      "Shell Armor", 
+      "Swift Swim"
+    ], 
+    "Name": "Chewtle", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "043": {
+    "Abilities": [
+      "Strong Jaw", 
+      "Shell Armor", 
+      "Swift Swim"
+    ], 
+    "Name": "Drednaw", 
+    "Types": [
+      "Water", 
+      "Rock"
+    ]
+  }, 
+  "044": {
+    "Abilities": [
+      "Limber", 
+      "Unburden", 
+      "Prankster"
+    ], 
+    "Name": "Purrloin", 
+    "Types": [
+      "Dark"
+    ]
+  }, 
+  "045": {
+    "Abilities": [
+      "Limber", 
+      "Unburden", 
+      "Prankster"
+    ], 
+    "Name": "Liepard", 
+    "Types": [
+      "Dark"
+    ]
+  }, 
+  "046": {
+    "Abilities": [
+      "Ball Fetch", 
+      "Rattled"
+    ], 
+    "Name": "Yamper", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "047": {
+    "Abilities": [
+      "Strong Jaw", 
+      "Competitive"
+    ], 
+    "Name": "Boltund", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "048": {
+    "Abilities": [
+      "Pickup", 
+      "Cheek Pouch", 
+      "Huge Power"
+    ], 
+    "Name": "Bunnelby", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "049": {
+    "Abilities": [
+      "Pickup", 
+      "Cheek Pouch", 
+      "Huge Power"
+    ], 
+    "Name": "Diggersby", 
+    "Types": [
+      "Normal", 
+      "Ground"
+    ]
+  }, 
+  "050": {
+    "Abilities": [
+      "Cute Charm", 
+      "Technician", 
+      "Skill Link"
+    ], 
+    "Name": "Minccino", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "051": {
+    "Abilities": [
+      "Cute Charm", 
+      "Technician", 
+      "Skill Link"
+    ], 
+    "Name": "Cinccino", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "052": {
+    "Abilities": [
+      "Leaf Guard", 
+      "Oblivious", 
+      "Sweet Veil"
+    ], 
+    "Name": "Bounsweet", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "053": {
+    "Abilities": [
+      "Leaf Guard", 
+      "Oblivious", 
+      "Sweet Veil"
+    ], 
+    "Name": "Steenee", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "054": {
+    "Abilities": [
+      "Leaf Guard", 
+      "Queenly Majesty", 
+      "Sweet Veil"
+    ], 
+    "Name": "Tsareena", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "055": {
+    "Abilities": [
+      "Chlorophyll", 
+      "Run Away"
+    ], 
+    "Name": "Oddish", 
+    "Types": [
+      "Grass", 
+      "Poison"
+    ]
+  }, 
+  "056": {
+    "Abilities": [
+      "Chlorophyll", 
+      "Stench"
+    ], 
+    "Name": "Gloom", 
+    "Types": [
+      "Grass", 
+      "Poison"
+    ]
+  }, 
+  "057": {
+    "Abilities": [
+      "Chlorophyll", 
+      "Effect Spore"
+    ], 
+    "Name": "Vileplume", 
+    "Types": [
+      "Grass", 
+      "Poison"
+    ]
+  }, 
+  "058": {
+    "Abilities": [
+      "Chlorophyll", 
+      "Healer"
+    ], 
+    "Name": "Bellossom", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "059": {
+    "Abilities": [
+      "Natural Cure", 
+      "Poison Point", 
+      "Leaf Guard"
+    ], 
+    "Name": "Budew", 
+    "Types": [
+      "Grass", 
+      "Poison"
+    ]
+  }, 
+  "060": {
+    "Abilities": [
+      "Natural Cure", 
+      "Poison Point", 
+      "Leaf Guard"
+    ], 
+    "Name": "Roselia", 
+    "Types": [
+      "Grass", 
+      "Poison"
+    ]
+  }, 
+  "061": {
+    "Abilities": [
+      "Natural Cure", 
+      "Poison Point", 
+      "Technician"
+    ], 
+    "Name": "Roserade", 
+    "Types": [
+      "Grass", 
+      "Poison"
+    ]
+  }, 
+  "062": {
+    "Abilities": [
+      "Keen Eye", 
+      "Hydration", 
+      "Rain Dish"
+    ], 
+    "Name": "Wingull", 
+    "Types": [
+      "Water", 
+      "Flying"
+    ]
+  }, 
+  "063": {
+    "Abilities": [
+      "Keen Eye", 
+      "Drizzle", 
+      "Rain Dish"
+    ], 
+    "Name": "Pelipper", 
+    "Types": [
+      "Water", 
+      "Flying"
+    ]
+  }, 
+  "064": {
+    "Abilities": [
+      "Compoundeyes", 
+      "Unnerve", 
+      "Swarm"
+    ], 
+    "Name": "Joltik", 
+    "Types": [
+      "Bug", 
+      "Electric"
+    ]
+  }, 
+  "065": {
+    "Abilities": [
+      "Compoundeyes", 
+      "Unnerve", 
+      "Swarm"
+    ], 
+    "Name": "Galvantula", 
+    "Types": [
+      "Bug", 
+      "Electric"
+    ]
+  }, 
+  "066": {
+    "Abilities": [
+      "Static", 
+      "Lightning Rod", 
+      "Minus"
+    ], 
+    "Name": "Electrike", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "067": {
+    "Abilities": [
+      "Static", 
+      "Lightning Rod", 
+      "Minus"
+    ], 
+    "Name": "Manectric", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "068": {
+    "Abilities": [
+      "Flash Fire", 
+      "Drought"
+    ], 
+    "Name": "Vulpix", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "069": {
+    "Abilities": [
+      "Flash Fire", 
+      "Drought"
+    ], 
+    "Name": "Ninetales", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "070": {
+    "Abilities": [
+      "Intimidate", 
+      "Flash Fire", 
+      "Justified"
+    ], 
+    "Name": "Growlithe", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "071": {
+    "Abilities": [
+      "Intimidate", 
+      "Flash Fire", 
+      "Justified"
+    ], 
+    "Name": "Arcanine", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "072": {
+    "Abilities": [
+      "Ice Body", 
+      "Snow Cloak", 
+      "Weak Armor"
+    ], 
+    "Name": "Vanillite", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "073": {
+    "Abilities": [
+      "Ice Body", 
+      "Snow Cloak", 
+      "Weak Armor"
+    ], 
+    "Name": "Vanillish", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "074": {
+    "Abilities": [
+      "Ice Body", 
+      "Snow Warning", 
+      "Weak Armor"
+    ], 
+    "Name": "Vanilluxe", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "075": {
+    "Abilities": [
+      "Oblivious", 
+      "Snow Cloak", 
+      "Thick Fat"
+    ], 
+    "Name": "Swinub", 
+    "Types": [
+      "Ice", 
+      "Ground"
+    ]
+  }, 
+  "076": {
+    "Abilities": [
+      "Oblivious", 
+      "Snow Cloak", 
+      "Thick Fat"
+    ], 
+    "Name": "Piloswine", 
+    "Types": [
+      "Ice", 
+      "Ground"
+    ]
+  }, 
+  "077": {
+    "Abilities": [
+      "Oblivious", 
+      "Snow Cloak", 
+      "Thick Fat"
+    ], 
+    "Name": "Mamoswine", 
+    "Types": [
+      "Ice", 
+      "Ground"
+    ]
+  }, 
+  "078": {
+    "Abilities": [
+      "Vital Spirit", 
+      "Hustle", 
+      "Insomnia"
+    ], 
+    "Name": "Delibird", 
+    "Types": [
+      "Ice", 
+      "Flying"
+    ]
+  }, 
+  "079": {
+    "Abilities": [
+      "Inner Focus", 
+      "Ice Body", 
+      "Moody"
+    ], 
+    "Name": "Snorunt", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "080": {
+    "Abilities": [
+      "Inner Focus", 
+      "Ice Body", 
+      "Moody"
+    ], 
+    "Name": "Glalie", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "081": {
+    "Abilities": [
+      "Snow Cloak", 
+      "Cursed Body"
+    ], 
+    "Name": "Froslass", 
+    "Types": [
+      "Ice", 
+      "Ghost"
+    ]
+  }, 
+  "082": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Baltoy", 
+    "Types": [
+      "Ground", 
+      "Psychic"
+    ]
+  }, 
+  "083": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Claydol", 
+    "Types": [
+      "Ground", 
+      "Psychic"
+    ]
+  }, 
+  "084": {
+    "Abilities": [
+      "Own Tempo", 
+      "Stamina", 
+      "Inner Focus"
+    ], 
+    "Name": "Mudbray", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "085": {
+    "Abilities": [
+      "Own Tempo", 
+      "Stamina", 
+      "Inner Focus"
+    ], 
+    "Name": "Mudsdale", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "086": {
+    "Abilities": [
+      "Sturdy", 
+      "Shell Armor", 
+      "Weak Armor"
+    ], 
+    "Name": "Dwebble", 
+    "Types": [
+      "Bug", 
+      "Rock"
+    ]
+  }, 
+  "087": {
+    "Abilities": [
+      "Sturdy", 
+      "Shell Armor", 
+      "Weak Armor"
+    ], 
+    "Name": "Crustle", 
+    "Types": [
+      "Bug", 
+      "Rock"
+    ]
+  }, 
+  "088": {
+    "Abilities": [
+      "Iron Fist", 
+      "Klutz", 
+      "No Guard"
+    ], 
+    "Name": "Golett", 
+    "Types": [
+      "Ground", 
+      "Ghost"
+    ]
+  }, 
+  "089": {
+    "Abilities": [
+      "Iron Fist", 
+      "Klutz", 
+      "No Guard"
+    ], 
+    "Name": "Golurk", 
+    "Types": [
+      "Ground", 
+      "Ghost"
+    ]
+  }, 
+  "090": {
+    "Abilities": [
+      "Forewarn", 
+      "Synchronize", 
+      "Telepathy"
+    ], 
+    "Name": "Munna", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "091": {
+    "Abilities": [
+      "Forewarn", 
+      "Synchronize", 
+      "Telepathy"
+    ], 
+    "Name": "Musharna", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "092": {
+    "Abilities": [
+      "Synchronize", 
+      "Early Bird", 
+      "Magic Bounce"
+    ], 
+    "Name": "Natu", 
+    "Types": [
+      "Psychic", 
+      "Flying"
+    ]
+  }, 
+  "093": {
+    "Abilities": [
+      "Synchronize", 
+      "Early Bird", 
+      "Magic Bounce"
+    ], 
+    "Name": "Xatu", 
+    "Types": [
+      "Psychic", 
+      "Flying"
+    ]
+  }, 
+  "094": {
+    "Abilities": [
+      "Fluffy", 
+      "Klutz", 
+      "Cute Charm"
+    ], 
+    "Name": "Stufful", 
+    "Types": [
+      "Normal", 
+      "Fighting"
+    ]
+  }, 
+  "095": {
+    "Abilities": [
+      "Fluffy", 
+      "Klutz", 
+      "Unnerve"
+    ], 
+    "Name": "Bewear", 
+    "Types": [
+      "Normal", 
+      "Fighting"
+    ]
+  }, 
+  "096": {
+    "Abilities": [
+      "Snow Warning", 
+      "Soundproof"
+    ], 
+    "Name": "Snover", 
+    "Types": [
+      "Grass", 
+      "Ice"
+    ]
+  }, 
+  "097": {
+    "Abilities": [
+      "Snow Warning", 
+      "Soundproof"
+    ], 
+    "Name": "Abomasnow", 
+    "Types": [
+      "Grass", 
+      "Ice"
+    ]
+  }, 
+  "098": {
+    "Abilities": [
+      "Hyper Cutter", 
+      "Shell Armor", 
+      "Sheer Force"
+    ], 
+    "Name": "Krabby", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "099": {
+    "Abilities": [
+      "Hyper Cutter", 
+      "Shell Armor", 
+      "Sheer Force"
+    ], 
+    "Name": "Kingler", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "100": {
+    "Abilities": [
+      "Damp", 
+      "Water Absorb", 
+      "Unaware"
+    ], 
+    "Name": "Wooper", 
+    "Types": [
+      "Water", 
+      "Ground"
+    ]
+  }, 
+  "101": {
+    "Abilities": [
+      "Damp", 
+      "Water Absorb", 
+      "Unaware"
+    ], 
+    "Name": "Quagsire", 
+    "Types": [
+      "Water", 
+      "Ground"
+    ]
+  }, 
+  "102": {
+    "Abilities": [
+      "Hyper Cutter", 
+      "Shell Armor", 
+      "Adaptability"
+    ], 
+    "Name": "Corphish", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "103": {
+    "Abilities": [
+      "Hyper Cutter", 
+      "Shell Armor", 
+      "Adaptability"
+    ], 
+    "Name": "Crawdaunt", 
+    "Types": [
+      "Water", 
+      "Dark"
+    ]
+  }, 
+  "104": {
+    "Abilities": [
+      "Compoundeyes", 
+      "Run Away"
+    ], 
+    "Name": "Nincada", 
+    "Types": [
+      "Bug", 
+      "Ground"
+    ]
+  }, 
+  "105": {
+    "Abilities": [
+      "Speed Boost", 
+      "Infiltrator"
+    ], 
+    "Name": "Ninjask", 
+    "Types": [
+      "Bug", 
+      "Flying"
+    ]
+  }, 
+  "106": {
+    "Abilities": [
+      "Wonder Guard"
+    ], 
+    "Name": "Shedinja", 
+    "Types": [
+      "Bug", 
+      "Ghost"
+    ]
+  }, 
+  "107": {
+    "Abilities": [
+      "Guts", 
+      "Steadfast", 
+      "Vital Spirit"
+    ], 
+    "Name": "Tyrogue", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "108": {
+    "Abilities": [
+      "Limber", 
+      "Reckless", 
+      "Unburden"
+    ], 
+    "Name": "Hitmonlee", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "109": {
+    "Abilities": [
+      "Keen Eye", 
+      "Iron Fist", 
+      "Inner Focus"
+    ], 
+    "Name": "Hitmonchan", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "110": {
+    "Abilities": [
+      "Intimidate", 
+      "Technician", 
+      "Steadfast"
+    ], 
+    "Name": "Hitmontop", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "111": {
+    "Abilities": [
+      "Iron Fist", 
+      "Mold Breaker", 
+      "Scrappy"
+    ], 
+    "Name": "Pancham", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "112": {
+    "Abilities": [
+      "Iron Fist", 
+      "Mold Breaker", 
+      "Scrappy"
+    ], 
+    "Name": "Pangoro", 
+    "Types": [
+      "Fighting", 
+      "Dark"
+    ]
+  }, 
+  "113": {
+    "Abilities": [
+      "Plus", 
+      "Minus", 
+      "Clear Body"
+    ], 
+    "Name": "Klink", 
+    "Types": [
+      "Steel"
+    ]
+  }, 
+  "114": {
+    "Abilities": [
+      "Plus", 
+      "Minus", 
+      "Clear Body"
+    ], 
+    "Name": "Klang", 
+    "Types": [
+      "Steel"
+    ]
+  }, 
+  "115": {
+    "Abilities": [
+      "Plus", 
+      "Minus", 
+      "Clear Body"
+    ], 
+    "Name": "Klinklang", 
+    "Types": [
+      "Steel"
+    ]
+  }, 
+  "116": {
+    "Abilities": [
+      "Honey Gather", 
+      "Hustle"
+    ], 
+    "Name": "Combee", 
+    "Types": [
+      "Bug", 
+      "Flying"
+    ]
+  }, 
+  "117": {
+    "Abilities": [
+      "Pressure", 
+      "Unnerve"
+    ], 
+    "Name": "Vespiquen", 
+    "Types": [
+      "Bug", 
+      "Flying"
+    ]
+  }, 
+  "118": {
+    "Abilities": [
+      "Levitate", 
+      "Heatproof", 
+      "Heavy Metal"
+    ], 
+    "Name": "Bronzor", 
+    "Types": [
+      "Steel", 
+      "Psychic"
+    ]
+  }, 
+  "119": {
+    "Abilities": [
+      "Levitate", 
+      "Heatproof", 
+      "Heavy Metal"
+    ], 
+    "Name": "Bronzong", 
+    "Types": [
+      "Steel", 
+      "Psychic"
+    ]
+  }, 
+  "120": {
+    "Abilities": [
+      "Synchronize", 
+      "Trace", 
+      "Telepathy"
+    ], 
+    "Name": "Ralts", 
+    "Types": [
+      "Psychic", 
+      "Fairy"
+    ]
+  }, 
+  "121": {
+    "Abilities": [
+      "Synchronize", 
+      "Trace", 
+      "Telepathy"
+    ], 
+    "Name": "Kirlia", 
+    "Types": [
+      "Psychic", 
+      "Fairy"
+    ]
+  }, 
+  "122": {
+    "Abilities": [
+      "Synchronize", 
+      "Trace", 
+      "Telepathy"
+    ], 
+    "Name": "Gardevoir", 
+    "Types": [
+      "Psychic", 
+      "Fairy"
+    ]
+  }, 
+  "123": {
+    "Abilities": [
+      "Steadfast", 
+      "Justified"
+    ], 
+    "Name": "Gallade", 
+    "Types": [
+      "Psychic", 
+      "Fighting"
+    ]
+  }, 
+  "124": {
+    "Abilities": [
+      "Aftermath", 
+      "Unburden", 
+      "Flare Boost"
+    ], 
+    "Name": "Drifloon", 
+    "Types": [
+      "Ghost", 
+      "Flying"
+    ]
+  }, 
+  "125": {
+    "Abilities": [
+      "Aftermath", 
+      "Unburden", 
+      "Flare Boost"
+    ], 
+    "Name": "Drifblim", 
+    "Types": [
+      "Ghost", 
+      "Flying"
+    ]
+  }, 
+  "126": {
+    "Abilities": [
+      "Cotton Down", 
+      "Regenerator", 
+      "Effect Spore"
+    ], 
+    "Name": "Gossifleur", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "127": {
+    "Abilities": [
+      "Cotton Down", 
+      "Regenerator", 
+      "Effect Spore"
+    ], 
+    "Name": "Eldegoss", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "128": {
+    "Abilities": [
+      "Chlorophyll"
+    ], 
+    "Name": "Cherubi", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "129": {
+    "Abilities": [
+      "Flower Gift"
+    ], 
+    "Name": "Cherrim", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "130": {
+    "Abilities": [
+      "Stench", 
+      "Aftermath", 
+      "Keen Eye"
+    ], 
+    "Name": "Stunky", 
+    "Types": [
+      "Poison", 
+      "Dark"
+    ]
+  }, 
+  "131": {
+    "Abilities": [
+      "Stench", 
+      "Aftermath", 
+      "Keen Eye"
+    ], 
+    "Name": "Skuntank", 
+    "Types": [
+      "Poison", 
+      "Dark"
+    ]
+  }, 
+  "132": {
+    "Abilities": [
+      "Swift Swim", 
+      "Hydration", 
+      "Water Absorb"
+    ], 
+    "Name": "Tympole", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "133": {
+    "Abilities": [
+      "Swift Swim", 
+      "Hydration", 
+      "Water Absorb"
+    ], 
+    "Name": "Palpitoad", 
+    "Types": [
+      "Water", 
+      "Ground"
+    ]
+  }, 
+  "134": {
+    "Abilities": [
+      "Swift Swim", 
+      "Poison Touch", 
+      "Water Absorb"
+    ], 
+    "Name": "Seismitoad", 
+    "Types": [
+      "Water", 
+      "Ground"
+    ]
+  }, 
+  "135": {
+    "Abilities": [
+      "Levitate", 
+      "Frisk"
+    ], 
+    "Name": "Duskull", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "136": {
+    "Abilities": [
+      "Pressure", 
+      "Frisk"
+    ], 
+    "Name": "Dusclops", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "137": {
+    "Abilities": [
+      "Pressure", 
+      "Frisk"
+    ], 
+    "Name": "Dusknoir", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "138": {
+    "Abilities": [
+      "Guts", 
+      "No Guard", 
+      "Steadfast"
+    ], 
+    "Name": "Machop", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "139": {
+    "Abilities": [
+      "Guts", 
+      "No Guard", 
+      "Steadfast"
+    ], 
+    "Name": "Machoke", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "140": {
+    "Abilities": [
+      "Guts", 
+      "No Guard", 
+      "Steadfast"
+    ], 
+    "Name": "Machamp", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "141": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Gastly", 
+    "Types": [
+      "Ghost", 
+      "Poison"
+    ]
+  }, 
+  "142": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Haunter", 
+    "Types": [
+      "Ghost", 
+      "Poison"
+    ]
+  }, 
+  "143": {
+    "Abilities": [
+      "Cursed Body"
+    ], 
+    "Name": "Gengar", 
+    "Types": [
+      "Ghost", 
+      "Poison"
+    ]
+  }, 
+  "144": {
+    "Abilities": [
+      "Swift Swim", 
+      "Rattled"
+    ], 
+    "Name": "Magikarp", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "145": {
+    "Abilities": [
+      "Intimidate", 
+      "Moxie"
+    ], 
+    "Name": "Gyarados", 
+    "Types": [
+      "Water", 
+      "Flying"
+    ]
+  }, 
+  "146": {
+    "Abilities": [
+      "Swift Swim", 
+      "Water Veil", 
+      "Lightning Rod"
+    ], 
+    "Name": "Goldeen", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "147": {
+    "Abilities": [
+      "Swift Swim", 
+      "Water Veil", 
+      "Lightning Rod"
+    ], 
+    "Name": "Seaking", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "148": {
+    "Abilities": [
+      "Hustle", 
+      "Sniper", 
+      "Moody"
+    ], 
+    "Name": "Remoraid", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "149": {
+    "Abilities": [
+      "Suction Cups", 
+      "Sniper", 
+      "Moody"
+    ], 
+    "Name": "Octillery", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "150": {
+    "Abilities": [
+      "Shell Armor", 
+      "Skill Link", 
+      "Overcoat"
+    ], 
+    "Name": "Shellder", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "151": {
+    "Abilities": [
+      "Shell Armor", 
+      "Skill Link", 
+      "Overcoat"
+    ], 
+    "Name": "Cloyster", 
+    "Types": [
+      "Water", 
+      "Ice"
+    ]
+  }, 
+  "152": {
+    "Abilities": [
+      "Swift Swim", 
+      "Oblivious", 
+      "Adaptability"
+    ], 
+    "Name": "Feebas", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "153": {
+    "Abilities": [
+      "Marvel Scale", 
+      "Competitive", 
+      "Cute Charm"
+    ], 
+    "Name": "Milotic", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "154": {
+    "Abilities": [
+      "Reckless", 
+      "Adaptability", 
+      "Mold Breaker"
+    ], 
+    "Name": "Basculin", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "155": {
+    "Abilities": [
+      "Schooling"
+    ], 
+    "Name": "Wishiwashi", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "156": {
+    "Abilities": [
+      "Innards Out", 
+      "Unaware"
+    ], 
+    "Name": "Pyukumuku", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "157": {
+    "Abilities": [
+      "Stench", 
+      "Sticky Hold", 
+      "Aftermath"
+    ], 
+    "Name": "Trubbish", 
+    "Types": [
+      "Poison"
+    ]
+  }, 
+  "158": {
+    "Abilities": [
+      "Stench", 
+      "Weak Armor", 
+      "Aftermath"
+    ], 
+    "Name": "Garbodor", 
+    "Types": [
+      "Poison"
+    ]
+  }, 
+  "159": {
+    "Abilities": [
+      "Flash Fire", 
+      "White Smoke", 
+      "Flame Body"
+    ], 
+    "Name": "Sizzlipede", 
+    "Types": [
+      "Fire", 
+      "Bug"
+    ]
+  }, 
+  "160": {
+    "Abilities": [
+      "Flash Fire", 
+      "White Smoke", 
+      "Flame Body"
+    ], 
+    "Name": "Centiskorch", 
+    "Types": [
+      "Fire", 
+      "Bug"
+    ]
+  }, 
+  "161": {
+    "Abilities": [
+      "Steam Engine", 
+      "Heatproof", 
+      "Flash Fire"
+    ], 
+    "Name": "Rolycoly", 
+    "Types": [
+      "Rock"
+    ]
+  }, 
+  "162": {
+    "Abilities": [
+      "Steam Engine", 
+      "Flame Body", 
+      "Flash Fire"
+    ], 
+    "Name": "Carkol", 
+    "Types": [
+      "Rock", 
+      "Fire"
+    ]
+  }, 
+  "163": {
+    "Abilities": [
+      "Steam Engine", 
+      "Flame Body", 
+      "Flash Fire"
+    ], 
+    "Name": "Coalossal", 
+    "Types": [
+      "Rock", 
+      "Fire"
+    ]
+  }, 
+  "164": {
+    "Abilities": [
+      "Sand Veil", 
+      "Arena Trap", 
+      "Sand Force"
+    ], 
+    "Name": "Diglett", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "165": {
+    "Abilities": [
+      "Sand Veil", 
+      "Arena Trap", 
+      "Sand Force"
+    ], 
+    "Name": "Dugtrio", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "166": {
+    "Abilities": [
+      "Sand Rush", 
+      "Sand Force", 
+      "Mold Breaker"
+    ], 
+    "Name": "Drilbur", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "167": {
+    "Abilities": [
+      "Sand Rush", 
+      "Sand Force", 
+      "Mold Breaker"
+    ], 
+    "Name": "Excadrill", 
+    "Types": [
+      "Ground", 
+      "Steel"
+    ]
+  }, 
+  "168": {
+    "Abilities": [
+      "Sturdy", 
+      "Weak Armor", 
+      "Sand Force"
+    ], 
+    "Name": "Roggenrola", 
+    "Types": [
+      "Rock"
+    ]
+  }, 
+  "169": {
+    "Abilities": [
+      "Sturdy", 
+      "Weak Armor", 
+      "Sand Force"
+    ], 
+    "Name": "Boldore", 
+    "Types": [
+      "Rock"
+    ]
+  }, 
+  "170": {
+    "Abilities": [
+      "Sturdy", 
+      "Sand Stream", 
+      "Sand Force"
+    ], 
+    "Name": "Gigalith", 
+    "Types": [
+      "Rock"
+    ]
+  }, 
+  "171": {
+    "Abilities": [
+      "Guts", 
+      "Sheer Force", 
+      "Iron Fist"
+    ], 
+    "Name": "Timburr", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "172": {
+    "Abilities": [
+      "Guts", 
+      "Sheer Force", 
+      "Iron Fist"
+    ], 
+    "Name": "Gurdurr", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "173": {
+    "Abilities": [
+      "Guts", 
+      "Sheer Force", 
+      "Iron Fist"
+    ], 
+    "Name": "Conkeldurr", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "174": {
+    "Abilities": [
+      "Unaware", 
+      "Klutz", 
+      "Simple"
+    ], 
+    "Name": "Woobat", 
+    "Types": [
+      "Psychic", 
+      "Flying"
+    ]
+  }, 
+  "175": {
+    "Abilities": [
+      "Unaware", 
+      "Klutz", 
+      "Simple"
+    ], 
+    "Name": "Swoobat", 
+    "Types": [
+      "Psychic", 
+      "Flying"
+    ]
+  }, 
+  "176": {
+    "Abilities": [
+      "Frisk", 
+      "Infiltrator", 
+      "Telepathy"
+    ], 
+    "Name": "Noibat", 
+    "Types": [
+      "Flying", 
+      "Dragon"
+    ]
+  }, 
+  "177": {
+    "Abilities": [
+      "Frisk", 
+      "Infiltrator", 
+      "Telepathy"
+    ], 
+    "Name": "Noivern", 
+    "Types": [
+      "Flying", 
+      "Dragon"
+    ]
+  }, 
+  "178": {
+    "Abilities": [
+      "Rock Head", 
+      "Sturdy", 
+      "Weak Armor"
+    ], 
+    "Name": "Onix", 
+    "Types": [
+      "Rock", 
+      "Ground"
+    ]
+  }, 
+  "179": {
+    "Abilities": [
+      "Rock Head", 
+      "Sturdy", 
+      "Sheer Force"
+    ], 
+    "Name": "Steelix", 
+    "Types": [
+      "Steel", 
+      "Ground"
+    ]
+  }, 
+  "180": {
+    "Abilities": [
+      "Swift Swim", 
+      "Propeller Tail"
+    ], 
+    "Name": "Arrokuda", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "181": {
+    "Abilities": [
+      "Swift Swim", 
+      "Propeller Tail"
+    ], 
+    "Name": "Barraskewda", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "182": {
+    "Abilities": [
+      "Pickup", 
+      "Tough Claws", 
+      "Unnerve"
+    ], 
+    "Name": "Meowth", 
+    "Types": [
+      "Steel"
+    ]
+  }, 
+  "183": {
+    "Abilities": [
+      "Battle Armor", 
+      "Tough Claws", 
+      "Steely Spirit"
+    ], 
+    "Name": "Perrserker", 
+    "Types": [
+      "Steel"
+    ]
+  }, 
+  "184": {
+    "Abilities": [
+      "Limber", 
+      "Technician", 
+      "Unnerve"
+    ], 
+    "Name": "Persian", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "185": {
+    "Abilities": [
+      "Sweet Veil", 
+      "Aroma Veil"
+    ], 
+    "Name": "Milcery", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "186": {
+    "Abilities": [
+      "Sweet Veil", 
+      "Aroma Veil"
+    ], 
+    "Name": "Alcremie", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "187": {
+    "Abilities": [
+      "Honey Gather", 
+      "Shield Dust", 
+      "Sweet Veil"
+    ], 
+    "Name": "Cutiefly", 
+    "Types": [
+      "Bug", 
+      "Fairy"
+    ]
+  }, 
+  "188": {
+    "Abilities": [
+      "Honey Gather", 
+      "Shield Dust", 
+      "Sweet Veil"
+    ], 
+    "Name": "Ribombee", 
+    "Types": [
+      "Bug", 
+      "Fairy"
+    ]
+  }, 
+  "189": {
+    "Abilities": [
+      "Iron Barbs"
+    ], 
+    "Name": "Ferroseed", 
+    "Types": [
+      "Grass", 
+      "Steel"
+    ]
+  }, 
+  "190": {
+    "Abilities": [
+      "Iron Barbs", 
+      "Anticipation"
+    ], 
+    "Name": "Ferrothorn", 
+    "Types": [
+      "Grass", 
+      "Steel"
+    ]
+  }, 
+  "191": {
+    "Abilities": [
+      "Pickup", 
+      "Frisk", 
+      "Insomnia"
+    ], 
+    "Name": "Pumpkaboo", 
+    "Types": [
+      "Ghost", 
+      "Grass"
+    ]
+  }, 
+  "192": {
+    "Abilities": [
+      "Pickup", 
+      "Frisk", 
+      "Insomnia"
+    ], 
+    "Name": "Gourgeist", 
+    "Types": [
+      "Ghost", 
+      "Grass"
+    ]
+  }, 
+  "193": {
+    "Abilities": [
+      "Static", 
+      "Lightning Rod"
+    ], 
+    "Name": "Pichu", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "194": {
+    "Abilities": [
+      "Static", 
+      "Lightning Rod"
+    ], 
+    "Name": "Pikachu", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "195": {
+    "Abilities": [
+      "Static", 
+      "Lightning Rod"
+    ], 
+    "Name": "Raichu", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "196": {
+    "Abilities": [
+      "Run Away", 
+      "Adaptability", 
+      "Anticipation"
+    ], 
+    "Name": "Eevee", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "197": {
+    "Abilities": [
+      "Water Absorb", 
+      "Hydration"
+    ], 
+    "Name": "Vaporeon", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "198": {
+    "Abilities": [
+      "Volt Absorb", 
+      "Quick Feet"
+    ], 
+    "Name": "Jolteon", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "199": {
+    "Abilities": [
+      "Flash Fire", 
+      "Guts"
+    ], 
+    "Name": "Flareon", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "200": {
+    "Abilities": [
+      "Synchronize", 
+      "Magic Bounce"
+    ], 
+    "Name": "Espeon", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "201": {
+    "Abilities": [
+      "Synchronize", 
+      "Inner Focus"
+    ], 
+    "Name": "Umbreon", 
+    "Types": [
+      "Dark"
+    ]
+  }, 
+  "202": {
+    "Abilities": [
+      "Leaf Guard", 
+      "Chlorophyll"
+    ], 
+    "Name": "Leafeon", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "203": {
+    "Abilities": [
+      "Snow Cloak", 
+      "Ice Body"
+    ], 
+    "Name": "Glaceon", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "204": {
+    "Abilities": [
+      "Cute Charm", 
+      "Pixilate"
+    ], 
+    "Name": "Sylveon", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "205": {
+    "Abilities": [
+      "Ripen", 
+      "Gluttony", 
+      "Bulletproof"
+    ], 
+    "Name": "Applin", 
+    "Types": [
+      "Grass", 
+      "Dragon"
+    ]
+  }, 
+  "206": {
+    "Abilities": [
+      "Ripen", 
+      "Gluttony", 
+      "Hustle"
+    ], 
+    "Name": "Flapple", 
+    "Types": [
+      "Grass", 
+      "Dragon"
+    ]
+  }, 
+  "207": {
+    "Abilities": [
+      "Ripen", 
+      "Gluttony", 
+      "Thick Fat"
+    ], 
+    "Name": "Appletun", 
+    "Types": [
+      "Grass", 
+      "Dragon"
+    ]
+  }, 
+  "208": {
+    "Abilities": [
+      "Keen Eye", 
+      "Infiltrator", 
+      "Own Tempo"
+    ], 
+    "Name": "Espurr", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "209": {
+    "Abilities": [
+      "Keen Eye", 
+      "Infiltrator", 
+      "Prankster"
+    ], 
+    "Name": "Meowstic", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "210": {
+    "Abilities": [
+      "Sweet Veil", 
+      "Unburden"
+    ], 
+    "Name": "Swirlix", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "211": {
+    "Abilities": [
+      "Sweet Veil", 
+      "Unburden"
+    ], 
+    "Name": "Slurpuff", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "212": {
+    "Abilities": [
+      "Healer", 
+      "Aroma Veil"
+    ], 
+    "Name": "Spritzee", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "213": {
+    "Abilities": [
+      "Healer", 
+      "Aroma Veil"
+    ], 
+    "Name": "Aromatisse", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "214": {
+    "Abilities": [
+      "Water Bubble", 
+      "Water Absorb"
+    ], 
+    "Name": "Dewpider", 
+    "Types": [
+      "Water", 
+      "Bug"
+    ]
+  }, 
+  "215": {
+    "Abilities": [
+      "Water Bubble", 
+      "Water Absorb"
+    ], 
+    "Name": "Araquanid", 
+    "Types": [
+      "Water", 
+      "Bug"
+    ]
+  }, 
+  "216": {
+    "Abilities": [
+      "Shadow Tag", 
+      "Telepathy"
+    ], 
+    "Name": "Wynaut", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "217": {
+    "Abilities": [
+      "Shadow Tag", 
+      "Telepathy"
+    ], 
+    "Name": "Wobbuffet", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "218": {
+    "Abilities": [
+      "Steadfast", 
+      "Scrappy"
+    ], 
+    "Name": "Farfetch'd", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "219": {
+    "Abilities": [
+      "Steadfast", 
+      "Scrappy"
+    ], 
+    "Name": "Sirfetch'd", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "220": {
+    "Abilities": [
+      "Volt Absorb", 
+      "Illuminate", 
+      "Water Absorb"
+    ], 
+    "Name": "Chinchou", 
+    "Types": [
+      "Water", 
+      "Electric"
+    ]
+  }, 
+  "221": {
+    "Abilities": [
+      "Volt Absorb", 
+      "Illuminate", 
+      "Water Absorb"
+    ], 
+    "Name": "Lanturn", 
+    "Types": [
+      "Water", 
+      "Electric"
+    ]
+  }, 
+  "222": {
+    "Abilities": [
+      "Anticipation", 
+      "Dry Skin", 
+      "Poison Touch"
+    ], 
+    "Name": "Croagunk", 
+    "Types": [
+      "Poison", 
+      "Fighting"
+    ]
+  }, 
+  "223": {
+    "Abilities": [
+      "Anticipation", 
+      "Dry Skin", 
+      "Poison Touch"
+    ], 
+    "Name": "Toxicroak", 
+    "Types": [
+      "Poison", 
+      "Fighting"
+    ]
+  }, 
+  "224": {
+    "Abilities": [
+      "Shed Skin", 
+      "Moxie", 
+      "Intimidate"
+    ], 
+    "Name": "Scraggy", 
+    "Types": [
+      "Dark", 
+      "Fighting"
+    ]
+  }, 
+  "225": {
+    "Abilities": [
+      "Shed Skin", 
+      "Moxie", 
+      "Intimidate"
+    ], 
+    "Name": "Scrafty", 
+    "Types": [
+      "Dark", 
+      "Fighting"
+    ]
+  }, 
+  "226": {
+    "Abilities": [
+      "Mimicry"
+    ], 
+    "Name": "Stunfisk", 
+    "Types": [
+      "Ground", 
+      "Steel"
+    ]
+  }, 
+  "227": {
+    "Abilities": [
+      "Sturdy", 
+      "Gluttony", 
+      "Contrary"
+    ], 
+    "Name": "Shuckle", 
+    "Types": [
+      "Bug", 
+      "Rock"
+    ]
+  }, 
+  "228": {
+    "Abilities": [
+      "Oblivious", 
+      "Anticipation", 
+      "Hydration"
+    ], 
+    "Name": "Barboach", 
+    "Types": [
+      "Water", 
+      "Ground"
+    ]
+  }, 
+  "229": {
+    "Abilities": [
+      "Oblivious", 
+      "Anticipation", 
+      "Hydration"
+    ], 
+    "Name": "Whiscash", 
+    "Types": [
+      "Water", 
+      "Ground"
+    ]
+  }, 
+  "230": {
+    "Abilities": [
+      "Sticky Hold", 
+      "Storm Drain", 
+      "Sand Force"
+    ], 
+    "Name": "Shellos", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "231": {
+    "Abilities": [
+      "Sticky Hold", 
+      "Storm Drain", 
+      "Sand Force"
+    ], 
+    "Name": "Gastrodon", 
+    "Types": [
+      "Water", 
+      "Ground"
+    ]
+  }, 
+  "232": {
+    "Abilities": [
+      "Wimp Out"
+    ], 
+    "Name": "Wimpod", 
+    "Types": [
+      "Bug", 
+      "Water"
+    ]
+  }, 
+  "233": {
+    "Abilities": [
+      "Emergency Exit"
+    ], 
+    "Name": "Golisopod", 
+    "Types": [
+      "Bug", 
+      "Water"
+    ]
+  }, 
+  "234": {
+    "Abilities": [
+      "Tough Claws", 
+      "Sniper", 
+      "Pickpocket"
+    ], 
+    "Name": "Binacle", 
+    "Types": [
+      "Rock", 
+      "Water"
+    ]
+  }, 
+  "235": {
+    "Abilities": [
+      "Tough Claws", 
+      "Sniper", 
+      "Pickpocket"
+    ], 
+    "Name": "Barbaracle", 
+    "Types": [
+      "Rock", 
+      "Water"
+    ]
+  }, 
+  "236": {
+    "Abilities": [
+      "Weak Armor", 
+      "Cursed Body"
+    ], 
+    "Name": "Corsola", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "237": {
+    "Abilities": [
+      "Weak Armor", 
+      "Perish Body"
+    ], 
+    "Name": "Cursola", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "238": {
+    "Abilities": [
+      "Prankster", 
+      "Frisk", 
+      "Pickpocket"
+    ], 
+    "Name": "Impidimp", 
+    "Types": [
+      "Dark", 
+      "Fairy"
+    ]
+  }, 
+  "239": {
+    "Abilities": [
+      "Prankster", 
+      "Frisk", 
+      "Pickpocket"
+    ], 
+    "Name": "Morgrem", 
+    "Types": [
+      "Dark", 
+      "Fairy"
+    ]
+  }, 
+  "240": {
+    "Abilities": [
+      "Prankster", 
+      "Frisk", 
+      "Pickpocket"
+    ], 
+    "Name": "Grimmsnarl", 
+    "Types": [
+      "Dark", 
+      "Fairy"
+    ]
+  }, 
+  "241": {
+    "Abilities": [
+      "Healer", 
+      "Anticipation", 
+      "Magic Bounce"
+    ], 
+    "Name": "Hatenna", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "242": {
+    "Abilities": [
+      "Healer", 
+      "Anticipation", 
+      "Magic Bounce"
+    ], 
+    "Name": "Hattrem", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "243": {
+    "Abilities": [
+      "Healer", 
+      "Anticipation", 
+      "Magic Bounce"
+    ], 
+    "Name": "Hatterene", 
+    "Types": [
+      "Psychic", 
+      "Fairy"
+    ]
+  }, 
+  "244": {
+    "Abilities": [
+      "Corrosion", 
+      "Oblivious"
+    ], 
+    "Name": "Salandit", 
+    "Types": [
+      "Poison", 
+      "Fire"
+    ]
+  }, 
+  "245": {
+    "Abilities": [
+      "Corrosion", 
+      "Oblivious"
+    ], 
+    "Name": "Salazzle", 
+    "Types": [
+      "Poison", 
+      "Fire"
+    ]
+  }, 
+  "246": {
+    "Abilities": [
+      "Defiant", 
+      "Inner Focus", 
+      "Pressure"
+    ], 
+    "Name": "Pawniard", 
+    "Types": [
+      "Dark", 
+      "Steel"
+    ]
+  }, 
+  "247": {
+    "Abilities": [
+      "Defiant", 
+      "Inner Focus", 
+      "Pressure"
+    ], 
+    "Name": "Bisharp", 
+    "Types": [
+      "Dark", 
+      "Steel"
+    ]
+  }, 
+  "248": {
+    "Abilities": [
+      "Guts", 
+      "Inner Focus", 
+      "Mold Breaker"
+    ], 
+    "Name": "Throh", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "249": {
+    "Abilities": [
+      "Sturdy", 
+      "Inner Focus", 
+      "Mold Breaker"
+    ], 
+    "Name": "Sawk", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "250": {
+    "Abilities": [
+      "Levitate", 
+      "Neutralizing Gas", 
+      "Stench"
+    ], 
+    "Name": "Koffing", 
+    "Types": [
+      "Poison"
+    ]
+  }, 
+  "251": {
+    "Abilities": [
+      "Levitate", 
+      "Neutralizing Gas", 
+      "Misty Surge"
+    ], 
+    "Name": "Weezing", 
+    "Types": [
+      "Poison", 
+      "Fairy"
+    ]
+  }, 
+  "252": {
+    "Abilities": [
+      "Sturdy", 
+      "Rock Head", 
+      "Rattled"
+    ], 
+    "Name": "Bonsly", 
+    "Types": [
+      "Rock"
+    ]
+  }, 
+  "253": {
+    "Abilities": [
+      "Sturdy", 
+      "Rock Head", 
+      "Rattled"
+    ], 
+    "Name": "Sudowoodo", 
+    "Types": [
+      "Rock"
+    ]
+  }, 
+  "254": {
+    "Abilities": [
+      "Cute Charm", 
+      "Magic Guard", 
+      "Friend Guard"
+    ], 
+    "Name": "Cleffa", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "255": {
+    "Abilities": [
+      "Cute Charm", 
+      "Magic Guard", 
+      "Friend Guard"
+    ], 
+    "Name": "Clefairy", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "256": {
+    "Abilities": [
+      "Cute Charm", 
+      "Magic Guard", 
+      "Unaware"
+    ], 
+    "Name": "Clefable", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "257": {
+    "Abilities": [
+      "Hustle", 
+      "Serene Grace", 
+      "Super Luck"
+    ], 
+    "Name": "Togepi", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "258": {
+    "Abilities": [
+      "Hustle", 
+      "Serene Grace", 
+      "Super Luck"
+    ], 
+    "Name": "Togetic", 
+    "Types": [
+      "Fairy", 
+      "Flying"
+    ]
+  }, 
+  "259": {
+    "Abilities": [
+      "Hustle", 
+      "Serene Grace", 
+      "Super Luck"
+    ], 
+    "Name": "Togekiss", 
+    "Types": [
+      "Fairy", 
+      "Flying"
+    ]
+  }, 
+  "260": {
+    "Abilities": [
+      "Pickup", 
+      "Thick Fat", 
+      "Gluttony"
+    ], 
+    "Name": "Munchlax", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "261": {
+    "Abilities": [
+      "Immunity", 
+      "Thick Fat", 
+      "Gluttony"
+    ], 
+    "Name": "Snorlax", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "262": {
+    "Abilities": [
+      "Prankster", 
+      "Infiltrator", 
+      "Chlorophyll"
+    ], 
+    "Name": "Cottonee", 
+    "Types": [
+      "Grass", 
+      "Fairy"
+    ]
+  }, 
+  "263": {
+    "Abilities": [
+      "Prankster", 
+      "Infiltrator", 
+      "Chlorophyll"
+    ], 
+    "Name": "Whimsicott", 
+    "Types": [
+      "Grass", 
+      "Fairy"
+    ]
+  }, 
+  "264": {
+    "Abilities": [
+      "Lightning Rod", 
+      "Rock Head", 
+      "Reckless"
+    ], 
+    "Name": "Rhyhorn", 
+    "Types": [
+      "Ground", 
+      "Rock"
+    ]
+  }, 
+  "265": {
+    "Abilities": [
+      "Lightning Rod", 
+      "Rock Head", 
+      "Reckless"
+    ], 
+    "Name": "Rhydon", 
+    "Types": [
+      "Ground", 
+      "Rock"
+    ]
+  }, 
+  "266": {
+    "Abilities": [
+      "Lightning Rod", 
+      "Solid Rock", 
+      "Reckless"
+    ], 
+    "Name": "Rhyperior", 
+    "Types": [
+      "Ground", 
+      "Rock"
+    ]
+  }, 
+  "267": {
+    "Abilities": [
+      "Frisk", 
+      "Competitive", 
+      "Shadow Tag"
+    ], 
+    "Name": "Gothita", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "268": {
+    "Abilities": [
+      "Frisk", 
+      "Competitive", 
+      "Shadow Tag"
+    ], 
+    "Name": "Gothorita", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "269": {
+    "Abilities": [
+      "Frisk", 
+      "Competitive", 
+      "Shadow Tag"
+    ], 
+    "Name": "Gothitelle", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "270": {
+    "Abilities": [
+      "Overcoat", 
+      "Magic Guard", 
+      "Regenerator"
+    ], 
+    "Name": "Solosis", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "271": {
+    "Abilities": [
+      "Overcoat", 
+      "Magic Guard", 
+      "Regenerator"
+    ], 
+    "Name": "Duosion", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "272": {
+    "Abilities": [
+      "Overcoat", 
+      "Magic Guard", 
+      "Regenerator"
+    ], 
+    "Name": "Reuniclus", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "273": {
+    "Abilities": [
+      "Swarm", 
+      "Shed Skin", 
+      "No Guard"
+    ], 
+    "Name": "Karrablast", 
+    "Types": [
+      "Bug"
+    ]
+  }, 
+  "274": {
+    "Abilities": [
+      "Swarm", 
+      "Shell Armor", 
+      "Overcoat"
+    ], 
+    "Name": "Escavalier", 
+    "Types": [
+      "Bug", 
+      "Steel"
+    ]
+  }, 
+  "275": {
+    "Abilities": [
+      "Hydration", 
+      "Shell Armor", 
+      "Overcoat"
+    ], 
+    "Name": "Shelmet", 
+    "Types": [
+      "Bug"
+    ]
+  }, 
+  "276": {
+    "Abilities": [
+      "Hydration", 
+      "Sticky Hold", 
+      "Unburden"
+    ], 
+    "Name": "Accelgor", 
+    "Types": [
+      "Bug"
+    ]
+  }, 
+  "277": {
+    "Abilities": [
+      "Telepathy", 
+      "Synchronize", 
+      "Analytic"
+    ], 
+    "Name": "Elgyem", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "278": {
+    "Abilities": [
+      "Telepathy", 
+      "Synchronize", 
+      "Analytic"
+    ], 
+    "Name": "Beheeyem", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "279": {
+    "Abilities": [
+      "Snow Cloak", 
+      "Slush Rush", 
+      "Rattled"
+    ], 
+    "Name": "Cubchoo", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "280": {
+    "Abilities": [
+      "Snow Cloak", 
+      "Slush Rush", 
+      "Swift Swim"
+    ], 
+    "Name": "Beartic", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "281": {
+    "Abilities": [
+      "Keen Eye", 
+      "Sheer Force", 
+      "Hustle"
+    ], 
+    "Name": "Rufflet", 
+    "Types": [
+      "Normal", 
+      "Flying"
+    ]
+  }, 
+  "282": {
+    "Abilities": [
+      "Keen Eye", 
+      "Sheer Force", 
+      "Defiant"
+    ], 
+    "Name": "Braviary", 
+    "Types": [
+      "Normal", 
+      "Flying"
+    ]
+  }, 
+  "283": {
+    "Abilities": [
+      "Big Pecks", 
+      "Overcoat", 
+      "Weak Armor"
+    ], 
+    "Name": "Vullaby", 
+    "Types": [
+      "Dark", 
+      "Flying"
+    ]
+  }, 
+  "284": {
+    "Abilities": [
+      "Big Pecks", 
+      "Overcoat", 
+      "Weak Armor"
+    ], 
+    "Name": "Mandibuzz", 
+    "Types": [
+      "Dark", 
+      "Flying"
+    ]
+  }, 
+  "285": {
+    "Abilities": [
+      "Battle Armor", 
+      "Sniper", 
+      "Keen Eye"
+    ], 
+    "Name": "Skorupi", 
+    "Types": [
+      "Poison", 
+      "Bug"
+    ]
+  }, 
+  "286": {
+    "Abilities": [
+      "Battle Armor", 
+      "Sniper", 
+      "Keen Eye"
+    ], 
+    "Name": "Drapion", 
+    "Types": [
+      "Poison", 
+      "Dark"
+    ]
+  }, 
+  "287": {
+    "Abilities": [
+      "Flash Fire", 
+      "Flame Body", 
+      "Infiltrator"
+    ], 
+    "Name": "Litwick", 
+    "Types": [
+      "Ghost", 
+      "Fire"
+    ]
+  }, 
+  "288": {
+    "Abilities": [
+      "Flash Fire", 
+      "Flame Body", 
+      "Infiltrator"
+    ], 
+    "Name": "Lampent", 
+    "Types": [
+      "Ghost", 
+      "Fire"
+    ]
+  }, 
+  "289": {
+    "Abilities": [
+      "Flash Fire", 
+      "Flame Body", 
+      "Infiltrator"
+    ], 
+    "Name": "Chandelure", 
+    "Types": [
+      "Ghost", 
+      "Fire"
+    ]
+  }, 
+  "290": {
+    "Abilities": [
+      "Contrary", 
+      "Suction Cups", 
+      "Infiltrator"
+    ], 
+    "Name": "Inkay", 
+    "Types": [
+      "Dark", 
+      "Psychic"
+    ]
+  }, 
+  "291": {
+    "Abilities": [
+      "Contrary", 
+      "Suction Cups", 
+      "Infiltrator"
+    ], 
+    "Name": "Malamar", 
+    "Types": [
+      "Dark", 
+      "Psychic"
+    ]
+  }, 
+  "292": {
+    "Abilities": [
+      "Inner Focus", 
+      "Keen Eye", 
+      "Pickpocket"
+    ], 
+    "Name": "Sneasel", 
+    "Types": [
+      "Dark", 
+      "Ice"
+    ]
+  }, 
+  "293": {
+    "Abilities": [
+      "Pressure", 
+      "Pickpocket"
+    ], 
+    "Name": "Weavile", 
+    "Types": [
+      "Dark", 
+      "Ice"
+    ]
+  }, 
+  "294": {
+    "Abilities": [
+      "Keen Eye", 
+      "Stall", 
+      "Prankster"
+    ], 
+    "Name": "Sableye", 
+    "Types": [
+      "Dark", 
+      "Ghost"
+    ]
+  }, 
+  "295": {
+    "Abilities": [
+      "Hyper Cutter", 
+      "Intimidate", 
+      "Sheer Force"
+    ], 
+    "Name": "Mawile", 
+    "Types": [
+      "Steel", 
+      "Fairy"
+    ]
+  }, 
+  "296": {
+    "Abilities": [
+      "Water Absorb", 
+      "Chlorophyll", 
+      "Storm Drain"
+    ], 
+    "Name": "Maractus", 
+    "Types": [
+      "Grass"
+    ]
+  }, 
+  "297": {
+    "Abilities": [
+      "Wonder Skin", 
+      "Magic Guard", 
+      "Tinted Lens"
+    ], 
+    "Name": "Sigilyph", 
+    "Types": [
+      "Psychic", 
+      "Flying"
+    ]
+  }, 
+  "298": {
+    "Abilities": [
+      "Steadfast", 
+      "Inner Focus", 
+      "Prankster"
+    ], 
+    "Name": "Riolu", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "299": {
+    "Abilities": [
+      "Steadfast", 
+      "Inner Focus", 
+      "Justified"
+    ], 
+    "Name": "Lucario", 
+    "Types": [
+      "Fighting", 
+      "Steel"
+    ]
+  }, 
+  "300": {
+    "Abilities": [
+      "White Smoke", 
+      "Drought", 
+      "Shell Armor"
+    ], 
+    "Name": "Torkoal", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "301": {
+    "Abilities": [
+      "Disguise"
+    ], 
+    "Name": "Mimikyu", 
+    "Types": [
+      "Ghost", 
+      "Fairy"
+    ]
+  }, 
+  "302": {
+    "Abilities": [
+      "Sheer Force", 
+      "Heavy Metal"
+    ], 
+    "Name": "Cufant", 
+    "Types": [
+      "Steel"
+    ]
+  }, 
+  "303": {
+    "Abilities": [
+      "Sheer Force", 
+      "Heavy Metal"
+    ], 
+    "Name": "Copperajah", 
+    "Types": [
+      "Steel"
+    ]
+  }, 
+  "304": {
+    "Abilities": [
+      "Poison Point", 
+      "Swift Swim", 
+      "Intimidate"
+    ], 
+    "Name": "Qwilfish", 
+    "Types": [
+      "Water", 
+      "Poison"
+    ]
+  }, 
+  "305": {
+    "Abilities": [
+      "Water Absorb", 
+      "Cursed Body", 
+      "Damp"
+    ], 
+    "Name": "Frillish", 
+    "Types": [
+      "Water", 
+      "Ghost"
+    ]
+  }, 
+  "306": {
+    "Abilities": [
+      "Water Absorb", 
+      "Cursed Body", 
+      "Damp"
+    ], 
+    "Name": "Jellicent", 
+    "Types": [
+      "Water", 
+      "Ghost"
+    ]
+  }, 
+  "307": {
+    "Abilities": [
+      "Merciless", 
+      "Limber", 
+      "Regenerator"
+    ], 
+    "Name": "Mareanie", 
+    "Types": [
+      "Poison", 
+      "Water"
+    ]
+  }, 
+  "308": {
+    "Abilities": [
+      "Merciless", 
+      "Limber", 
+      "Regenerator"
+    ], 
+    "Name": "Toxapex", 
+    "Types": [
+      "Poison", 
+      "Water"
+    ]
+  }, 
+  "309": {
+    "Abilities": [
+      "Gulp Missile"
+    ], 
+    "Name": "Cramorant", 
+    "Types": [
+      "Flying", 
+      "Water"
+    ]
+  }, 
+  "310": {
+    "Abilities": [
+      "Rattled", 
+      "Static", 
+      "Klutz"
+    ], 
+    "Name": "Toxel", 
+    "Types": [
+      "Electric", 
+      "Poison"
+    ]
+  }, 
+  "311": {
+    "Abilities": [
+      "Punk Rock", 
+      "Plus", 
+      "Technician"
+    ], 
+    "Name": "Toxtricity", 
+    "Types": [
+      "Electric", 
+      "Poison"
+    ]
+  }, 
+  "312": {
+    "Abilities": [
+      "Sand Spit", 
+      "Shed Skin", 
+      "Sand Veil"
+    ], 
+    "Name": "Silicobra", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "313": {
+    "Abilities": [
+      "Sand Spit", 
+      "Shed Skin", 
+      "Sand Veil"
+    ], 
+    "Name": "Sandaconda", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "314": {
+    "Abilities": [
+      "Sand Stream", 
+      "Sand Force"
+    ], 
+    "Name": "Hippopotas", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "315": {
+    "Abilities": [
+      "Sand Stream", 
+      "Sand Force"
+    ], 
+    "Name": "Hippowdon", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "316": {
+    "Abilities": [
+      "Swarm", 
+      "Hustle", 
+      "Truant"
+    ], 
+    "Name": "Durant", 
+    "Types": [
+      "Bug", 
+      "Steel"
+    ]
+  }, 
+  "317": {
+    "Abilities": [
+      "Gluttony", 
+      "Flash Fire", 
+      "White Smoke"
+    ], 
+    "Name": "Heatmor", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "318": {
+    "Abilities": [
+      "Dry Skin", 
+      "Sand Veil", 
+      "Solar Power"
+    ], 
+    "Name": "Helioptile", 
+    "Types": [
+      "Electric", 
+      "Normal"
+    ]
+  }, 
+  "319": {
+    "Abilities": [
+      "Dry Skin", 
+      "Sand Veil", 
+      "Solar Power"
+    ], 
+    "Name": "Heliolisk", 
+    "Types": [
+      "Electric", 
+      "Normal"
+    ]
+  }, 
+  "320": {
+    "Abilities": [
+      "Limber", 
+      "Unburden", 
+      "Mold Breaker"
+    ], 
+    "Name": "Hawlucha", 
+    "Types": [
+      "Fighting", 
+      "Flying"
+    ]
+  }, 
+  "321": {
+    "Abilities": [
+      "Hyper Cutter", 
+      "Arena Trap", 
+      "Sheer Force"
+    ], 
+    "Name": "Trapinch", 
+    "Types": [
+      "Ground"
+    ]
+  }, 
+  "322": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Vibrava", 
+    "Types": [
+      "Ground", 
+      "Dragon"
+    ]
+  }, 
+  "323": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Flygon", 
+    "Types": [
+      "Ground", 
+      "Dragon"
+    ]
+  }, 
+  "324": {
+    "Abilities": [
+      "Rivalry", 
+      "Mold Breaker", 
+      "Unnerve"
+    ], 
+    "Name": "Axew", 
+    "Types": [
+      "Dragon"
+    ]
+  }, 
+  "325": {
+    "Abilities": [
+      "Rivalry", 
+      "Mold Breaker", 
+      "Unnerve"
+    ], 
+    "Name": "Fraxure", 
+    "Types": [
+      "Dragon"
+    ]
+  }, 
+  "326": {
+    "Abilities": [
+      "Rivalry", 
+      "Mold Breaker", 
+      "Unnerve"
+    ], 
+    "Name": "Haxorus", 
+    "Types": [
+      "Dragon"
+    ]
+  }, 
+  "327": {
+    "Abilities": [
+      "Wandering Spirit"
+    ], 
+    "Name": "Yamask", 
+    "Types": [
+      "Ground", 
+      "Ghost"
+    ]
+  }, 
+  "328": {
+    "Abilities": [
+      "Wandering Spirit"
+    ], 
+    "Name": "Runerigus", 
+    "Types": [
+      "Ground", 
+      "Ghost"
+    ]
+  }, 
+  "329": {
+    "Abilities": [
+      "Mummy"
+    ], 
+    "Name": "Cofagrigus", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "330": {
+    "Abilities": [
+      "No Guard"
+    ], 
+    "Name": "Honedge", 
+    "Types": [
+      "Steel", 
+      "Ghost"
+    ]
+  }, 
+  "331": {
+    "Abilities": [
+      "No Guard"
+    ], 
+    "Name": "Doublade", 
+    "Types": [
+      "Steel", 
+      "Ghost"
+    ]
+  }, 
+  "332": {
+    "Abilities": [
+      "Stance Change"
+    ], 
+    "Name": "Aegislash", 
+    "Types": [
+      "Steel", 
+      "Ghost"
+    ]
+  }, 
+  "333": {
+    "Abilities": [
+      "Run Away", 
+      "Pastel Veil", 
+      "Anticipation"
+    ], 
+    "Name": "Ponyta", 
+    "Types": [
+      "Psychic"
+    ]
+  }, 
+  "334": {
+    "Abilities": [
+      "Run Away", 
+      "Pastel Veil", 
+      "Anticipation"
+    ], 
+    "Name": "Rapidash", 
+    "Types": [
+      "Psychic", 
+      "Fairy"
+    ]
+  }, 
+  "335": {
+    "Abilities": [
+      "Weak Armor", 
+      "Cursed Body"
+    ], 
+    "Name": "Sinistea", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "336": {
+    "Abilities": [
+      "Weak Armor", 
+      "Cursed Body"
+    ], 
+    "Name": "Polteageist", 
+    "Types": [
+      "Ghost"
+    ]
+  }, 
+  "337": {
+    "Abilities": [
+      "Inner Focus", 
+      "Synchronize", 
+      "Psychic Surge"
+    ], 
+    "Name": "Indeedee", 
+    "Types": [
+      "Psychic", 
+      "Normal"
+    ]
+  }, 
+  "338": {
+    "Abilities": [
+      "Natural Cure", 
+      "Frisk", 
+      "Harvest"
+    ], 
+    "Name": "Phantump", 
+    "Types": [
+      "Ghost", 
+      "Grass"
+    ]
+  }, 
+  "339": {
+    "Abilities": [
+      "Natural Cure", 
+      "Frisk", 
+      "Harvest"
+    ], 
+    "Name": "Trevenant", 
+    "Types": [
+      "Ghost", 
+      "Grass"
+    ]
+  }, 
+  "340": {
+    "Abilities": [
+      "Illuminate", 
+      "Effect Spore", 
+      "Rain Dish"
+    ], 
+    "Name": "Morelull", 
+    "Types": [
+      "Grass", 
+      "Fairy"
+    ]
+  }, 
+  "341": {
+    "Abilities": [
+      "Illuminate", 
+      "Effect Spore", 
+      "Rain Dish"
+    ], 
+    "Name": "Shiinotic", 
+    "Types": [
+      "Grass", 
+      "Fairy"
+    ]
+  }, 
+  "342": {
+    "Abilities": [
+      "Inner Focus", 
+      "Telepathy", 
+      "Symbiosis"
+    ], 
+    "Name": "Oranguru", 
+    "Types": [
+      "Normal", 
+      "Psychic"
+    ]
+  }, 
+  "343": {
+    "Abilities": [
+      "Receiver", 
+      "Defiant"
+    ], 
+    "Name": "Passimian", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "344": {
+    "Abilities": [
+      "Hunger Switch"
+    ], 
+    "Name": "Morpeko", 
+    "Types": [
+      "Electric", 
+      "Dark"
+    ]
+  }, 
+  "345": {
+    "Abilities": [
+      "Battle Armor", 
+      "Defiant"
+    ], 
+    "Name": "Falinks", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "346": {
+    "Abilities": [
+      "Berserk", 
+      "Sap Sipper", 
+      "Cloud Nine"
+    ], 
+    "Name": "Drampa", 
+    "Types": [
+      "Normal", 
+      "Dragon"
+    ]
+  }, 
+  "347": {
+    "Abilities": [
+      "Shell Armor"
+    ], 
+    "Name": "Turtonator", 
+    "Types": [
+      "Fire", 
+      "Dragon"
+    ]
+  }, 
+  "348": {
+    "Abilities": [
+      "Iron Barbs", 
+      "Lightning Rod", 
+      "Sturdy"
+    ], 
+    "Name": "Togedemaru", 
+    "Types": [
+      "Electric", 
+      "Steel"
+    ]
+  }, 
+  "349": {
+    "Abilities": [
+      "Shield Dust", 
+      "Ice Scales"
+    ], 
+    "Name": "Snom", 
+    "Types": [
+      "Ice", 
+      "Bug"
+    ]
+  }, 
+  "350": {
+    "Abilities": [
+      "Shield Dust", 
+      "Ice Scales"
+    ], 
+    "Name": "Frosmoth", 
+    "Types": [
+      "Ice", 
+      "Bug"
+    ]
+  }, 
+  "351": {
+    "Abilities": [
+      "Limber", 
+      "Technician"
+    ], 
+    "Name": "Clobbopus", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "352": {
+    "Abilities": [
+      "Limber", 
+      "Technician"
+    ], 
+    "Name": "Grapploct", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "353": {
+    "Abilities": [
+      "Lightning Rod", 
+      "Electric Surge"
+    ], 
+    "Name": "Pincurchin", 
+    "Types": [
+      "Electric"
+    ]
+  }, 
+  "354": {
+    "Abilities": [
+      "Swift Swim", 
+      "Water Absorb", 
+      "Water Veil"
+    ], 
+    "Name": "Mantyke", 
+    "Types": [
+      "Water", 
+      "Flying"
+    ]
+  }, 
+  "355": {
+    "Abilities": [
+      "Swift Swim", 
+      "Water Absorb", 
+      "Water Veil"
+    ], 
+    "Name": "Mantine", 
+    "Types": [
+      "Water", 
+      "Flying"
+    ]
+  }, 
+  "356": {
+    "Abilities": [
+      "Water Veil", 
+      "Oblivious", 
+      "Pressure"
+    ], 
+    "Name": "Wailmer", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "357": {
+    "Abilities": [
+      "Water Veil", 
+      "Oblivious", 
+      "Pressure"
+    ], 
+    "Name": "Wailord", 
+    "Types": [
+      "Water"
+    ]
+  }, 
+  "358": {
+    "Abilities": [
+      "Own Tempo", 
+      "Ice Body", 
+      "Sturdy"
+    ], 
+    "Name": "Bergmite", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "359": {
+    "Abilities": [
+      "Own Tempo", 
+      "Ice Body", 
+      "Sturdy"
+    ], 
+    "Name": "Avalugg", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "360": {
+    "Abilities": [
+      "Steelworker"
+    ], 
+    "Name": "Dhelmise", 
+    "Types": [
+      "Ghost", 
+      "Grass"
+    ]
+  }, 
+  "361": {
+    "Abilities": [
+      "Water Absorb", 
+      "Shell Armor", 
+      "Hydration"
+    ], 
+    "Name": "Lapras", 
+    "Types": [
+      "Water", 
+      "Ice"
+    ]
+  }, 
+  "362": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Lunatone", 
+    "Types": [
+      "Rock", 
+      "Psychic"
+    ]
+  }, 
+  "363": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Solrock", 
+    "Types": [
+      "Rock", 
+      "Psychic"
+    ]
+  }, 
+  "364": {
+    "Abilities": [
+      "Soundproof", 
+      "Filter", 
+      "Technician"
+    ], 
+    "Name": "Mime Jr.", 
+    "Types": [
+      "Psychic", 
+      "Fairy"
+    ]
+  }, 
+  "365": {
+    "Abilities": [
+      "Vital Spirit", 
+      "Screen Cleaner", 
+      "Ice Body"
+    ], 
+    "Name": "Mr. Mime", 
+    "Types": [
+      "Ice", 
+      "Psychic"
+    ]
+  }, 
+  "366": {
+    "Abilities": [
+      "Tangled Feet", 
+      "Screen Cleaner", 
+      "Ice Body"
+    ], 
+    "Name": "Mr. Rime", 
+    "Types": [
+      "Ice", 
+      "Psychic"
+    ]
+  }, 
+  "367": {
+    "Abilities": [
+      "Hustle", 
+      "Inner Focus"
+    ], 
+    "Name": "Darumaka", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "368": {
+    "Abilities": [
+      "Gorilla Tactics", 
+      "Zen Mode"
+    ], 
+    "Name": "Darmanitan", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "369": {
+    "Abilities": [
+      "Power Spot"
+    ], 
+    "Name": "Stonjourner", 
+    "Types": [
+      "Rock"
+    ]
+  }, 
+  "370": {
+    "Abilities": [
+      "Ice Face"
+    ], 
+    "Name": "Eiscue", 
+    "Types": [
+      "Ice"
+    ]
+  }, 
+  "371": {
+    "Abilities": [
+      "Light Metal", 
+      "Heavy Metal", 
+      "Stalwart"
+    ], 
+    "Name": "Duraludon", 
+    "Types": [
+      "Steel", 
+      "Dragon"
+    ]
+  }, 
+  "372": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Rotom", 
+    "Types": [
+      "Electric", 
+      "Ghost"
+    ]
+  }, 
+  "373": {
+    "Abilities": [
+      "Limber", 
+      "Imposter"
+    ], 
+    "Name": "Ditto", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "374": {
+    "Abilities": [
+      "Volt Absorb", 
+      "Hustle", 
+      "Sand Rush"
+    ], 
+    "Name": "Dracozolt", 
+    "Types": [
+      "Electric", 
+      "Dragon"
+    ]
+  }, 
+  "375": {
+    "Abilities": [
+      "Volt Absorb", 
+      "Static", 
+      "Slush Rush"
+    ], 
+    "Name": "Arctozolt", 
+    "Types": [
+      "Electric", 
+      "Ice"
+    ]
+  }, 
+  "376": {
+    "Abilities": [
+      "Water Absorb", 
+      "Strong Jaw", 
+      "Sand Rush"
+    ], 
+    "Name": "Dracovish", 
+    "Types": [
+      "Water", 
+      "Dragon"
+    ]
+  }, 
+  "377": {
+    "Abilities": [
+      "Water Absorb", 
+      "Ice Body", 
+      "Slush Rush"
+    ], 
+    "Name": "Arctovish", 
+    "Types": [
+      "Water", 
+      "Ice"
+    ]
+  }, 
+  "378": {
+    "Abilities": [
+      "Blaze", 
+      "Solar Power"
+    ], 
+    "Name": "Charmander", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "379": {
+    "Abilities": [
+      "Blaze", 
+      "Solar Power"
+    ], 
+    "Name": "Charmeleon", 
+    "Types": [
+      "Fire"
+    ]
+  }, 
+  "380": {
+    "Abilities": [
+      "Blaze", 
+      "Solar Power"
+    ], 
+    "Name": "Charizard", 
+    "Types": [
+      "Fire", 
+      "Flying"
+    ]
+  }, 
+  "381": {
+    "Abilities": [
+      "Battle Armor"
+    ], 
+    "Name": "Type: Null", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "382": {
+    "Abilities": [
+      "RKS System"
+    ], 
+    "Name": "Silvally", 
+    "Types": [
+      "Normal"
+    ]
+  }, 
+  "383": {
+    "Abilities": [
+      "Guts", 
+      "Sand Veil"
+    ], 
+    "Name": "Larvitar", 
+    "Types": [
+      "Rock", 
+      "Ground"
+    ]
+  }, 
+  "384": {
+    "Abilities": [
+      "Shed Skin"
+    ], 
+    "Name": "Pupitar", 
+    "Types": [
+      "Rock", 
+      "Ground"
+    ]
+  }, 
+  "385": {
+    "Abilities": [
+      "Sand Stream", 
+      "Unnerve"
+    ], 
+    "Name": "Tyranitar", 
+    "Types": [
+      "Rock", 
+      "Dark"
+    ]
+  }, 
+  "386": {
+    "Abilities": [
+      "Hustle"
+    ], 
+    "Name": "Deino", 
+    "Types": [
+      "Dark", 
+      "Dragon"
+    ]
+  }, 
+  "387": {
+    "Abilities": [
+      "Hustle"
+    ], 
+    "Name": "Zweilous", 
+    "Types": [
+      "Dark", 
+      "Dragon"
+    ]
+  }, 
+  "388": {
+    "Abilities": [
+      "Levitate"
+    ], 
+    "Name": "Hydreigon", 
+    "Types": [
+      "Dark", 
+      "Dragon"
+    ]
+  }, 
+  "389": {
+    "Abilities": [
+      "Sap Sipper", 
+      "Hydration", 
+      "Gooey"
+    ], 
+    "Name": "Goomy", 
+    "Types": [
+      "Dragon"
+    ]
+  }, 
+  "390": {
+    "Abilities": [
+      "Sap Sipper", 
+      "Hydration", 
+      "Gooey"
+    ], 
+    "Name": "Sliggoo", 
+    "Types": [
+      "Dragon"
+    ]
+  }, 
+  "391": {
+    "Abilities": [
+      "Sap Sipper", 
+      "Hydration", 
+      "Gooey"
+    ], 
+    "Name": "Goodra", 
+    "Types": [
+      "Dragon"
+    ]
+  }, 
+  "392": {
+    "Abilities": [
+      "Bulletproof", 
+      "Soundproof", 
+      "Overcoat"
+    ], 
+    "Name": "Jangmo-o", 
+    "Types": [
+      "Dragon"
+    ]
+  }, 
+  "393": {
+    "Abilities": [
+      "Bulletproof", 
+      "Soundproof", 
+      "Overcoat"
+    ], 
+    "Name": "Hakamo-o", 
+    "Types": [
+      "Dragon", 
+      "Fighting"
+    ]
+  }, 
+  "394": {
+    "Abilities": [
+      "Bulletproof", 
+      "Soundproof", 
+      "Overcoat"
+    ], 
+    "Name": "Kommo-o", 
+    "Types": [
+      "Dragon", 
+      "Fighting"
+    ]
+  }, 
+  "395": {
+    "Abilities": [
+      "Clear Body", 
+      "Infiltrator", 
+      "Cursed Body"
+    ], 
+    "Name": "Dreepy", 
+    "Types": [
+      "Dragon", 
+      "Ghost"
+    ]
+  }, 
+  "396": {
+    "Abilities": [
+      "Clear Body", 
+      "Infiltrator", 
+      "Cursed Body"
+    ], 
+    "Name": "Drakloak", 
+    "Types": [
+      "Dragon", 
+      "Ghost"
+    ]
+  }, 
+  "397": {
+    "Abilities": [
+      "Clear Body", 
+      "Infiltrator", 
+      "Cursed Body"
+    ], 
+    "Name": "Dragapult", 
+    "Types": [
+      "Dragon", 
+      "Ghost"
+    ]
+  }, 
+  "398": {
+    "Abilities": [
+      "Intrepid Sword"
+    ], 
+    "Name": "Zacian", 
+    "Types": [
+      "Fairy"
+    ]
+  }, 
+  "399": {
+    "Abilities": [
+      "Dauntless Shield"
+    ], 
+    "Name": "Zamazenta", 
+    "Types": [
+      "Fighting"
+    ]
+  }, 
+  "400": {
+    "Abilities": [
+      "Pressure"
+    ], 
+    "Name": "Eternatus", 
+    "Types": [
+      "Poison", 
+      "Dragon"
+    ]
+  }
+}

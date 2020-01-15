@@ -1,0 +1,73 @@
+body {
+  font-family: monospace;
+}
+
+[type="checkbox"] {
+  vertical-align: middle;
+}
+
+select {
+  vertical-align: middle;
+  border: 0px;
+  padding: 1px;
+  box-shadow: 0;
+  margin-right: 1em;
+}
+
+.header {
+  margin: 0 0 2em 0;
+  height: 4em;
+  background: #555555;
+  display: flex;
+  justify-content: center;
+}
+
+.region {
+  display: inline-block;
+  height: 100%;
+  background: #555555;
+  border: 0px;
+  padding: 0px 1em;
+  color: #ffffff;
+}
+
+.pokemon {
+  background: #7de9ff;
+  border-radius: 5px;
+  border: 1px solid #3e6bb3;
+  width: 60%;
+  margin: 5px auto;
+  padding: 0.25em 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.poke_icon img, .poke_ball img {
+  width: 3em;
+  height: auto;
+  object-fit: cover;
+  margin: 0 1.25em 0 0;
+}
+
+.poke_ball img {
+  width: 2em;
+}
+
+.pokemon_id {
+  margin: 0 1em;
+  width: 2em;
+}
+
+.poke_info, .poke_types, .poke_ball {
+  width: 10em;
+  vertical-align: middle;
+}
+
+.poke_ball {
+  width: 5em;
+}
+
+.poke_types img {
+  margin: 0 0.25em;
+}
