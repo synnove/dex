@@ -1,5 +1,16 @@
-body {
-  font-family: monospace;
+html, body, pre, code, kbd, samp {
+    font-family: "Press Start 2P";
+}
+
+
+.nes-container.is-rounded {
+  margin: 2em;
+  font-size: 0.75em;
+  padding: 1em;
+}
+
+.container {
+  margin: 2em auto;
 }
 
 [type="checkbox"] {
@@ -15,11 +26,7 @@ select {
 }
 
 .header {
-  margin: 0 0 2em 0;
-  height: 4em;
   background: #555555;
-  display: flex;
-  justify-content: center;
 }
 
 .region {
@@ -31,31 +38,20 @@ select {
   color: #ffffff;
 }
 
-.pokemon {
-  background: #7de9ff;
-  border-radius: 5px;
-  border: 1px solid #3e6bb3;
-  width: 60%;
-  margin: 5px auto;
-  padding: 0.25em 1em;
+.pokemon, .trainer {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .poke_icon img, .poke_ball img {
-  width: 3em;
+  width: 5em;
   height: auto;
   object-fit: cover;
-  margin: 0 1.25em 0 0;
+  margin: 0 0.5em 0 0;
 }
 
 .poke_ball img {
-  width: 2em;
-}
-
-.pokemon_id {
-  margin: 0 1em;
   width: 2em;
 }
 
@@ -66,6 +62,10 @@ select {
 
 .poke_ball {
   width: 5em;
+}
+
+.pokemon_id {
+  width: 1em;
 }
 
 .poke_types img {
