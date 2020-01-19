@@ -35,7 +35,7 @@ class PokeIcon extends React.Component {
       if (type === "pokemon") {
         return (
           <div className="col-xs poke_icon">
-              <img src={process.env.PUBLIC_URL + '/icons/' + name + '.png'} alt={ name }/>
+              <img src={process.env.PUBLIC_URL + '/icons/pokemon/' + name + '.png'} alt={ name }/>
           </div>
         )
       } else if (type === "pokeball") {
@@ -44,15 +44,9 @@ class PokeIcon extends React.Component {
             <img src={process.env.PUBLIC_URL + '/icons/pokeballs/' + name.toLowerCase() + 'ball.png'} alt={ name }/>
           </div>
         )
-      } else if (type === "gender") {
-        return (
-          <div className="col-xs poke_ball">
-            <img src={process.env.PUBLIC_URL + '/icons/' + name.toLowerCase() + '.png'} alt={ name }/>
-          </div>
-        )
       }
     } else {
-      return (<div className="poke_ball"></div>)
+      return (<div className="col-xs"></div>)
     }
   }
 }
@@ -125,33 +119,49 @@ class Pokemon extends React.Component {
     var padded_id = (Array(3).join('0') + id).slice(-3);
     var name      = pokeData[ padded_id ]["Name"];
     var types     = pokeData[ padded_id ]["Types"];
-    var gender    = pokeData[ padded_id ]["Gender"];
-    var nature    = pokeData[ padded_id ]["Nature"];
-    var iv        = pokeData[ padded_id ]["IVs"];
-    var dynamax   = pokeData[ padded_id ]["Dynamax"];
-    var language  = pokeData[ padded_id ]["Region"];
-    var ball      = pokeData[ padded_id ]["Ball"];
     var caught    = pokeData[ padded_id ]["Caught"];
     var owned     = pokeData[ padded_id ]["Owned"];
     return (
-      <div className="row nes-container is-rounded pokemon">
-        <PokeID       id={ padded_id }                                  />
-        <PokeIcon     name={ id }     type="pokemon"                    />
-        <PokeGeneric  data={ name }                                     />
-        <PokeTypes    types={ types }                                   />
-        <PokeCheckBox type="Caught"   value={ caught }                  />
-        <PokeCheckBox type="Owned"    value={ owned }                   />
-        <div className="col-xs"><button type="button" className="nes-btn is-disabled">View Stats</button></div>
-        {/*
-        <PokeIcon     name={ ball }   type="pokeball"                   />
-        <PokeSelect   select="gender" data={ gender }                   />
-        <PokeSelect   select="nature" data={ nature }                   />
-        <PokeGeneric  data={ "IVs: " + iv + "/6" }                      />
-        <PokeGeneric  data={ "Dynamax: " + dynamax + "/10" }      />
-        <PokeSelect   select="region" data={ language }                 />
-        */}
+      <div className="row nes-container is-rounded pokedex">
+        <div className="col-xs-12"><div className="row pokemon">
+          <PokeID       id={ padded_id }                 />
+          <PokeIcon     name={ id }     type="pokemon"   />
+          <PokeGeneric  data={ name }                    />
+          <PokeTypes    types={ types }                  />
+          <PokeCheckBox type="Caught"   value={ caught } />
+          <PokeCheckBox type="Owned"    value={ owned }  />
+        </div></div>
+        <PokeStats id={ padded_id }/>
       </div>
-    );
+    )
+  }
+}
+
+class PokeStats extends React.Component {
+  render () {
+    var id       = this.props.id;
+    var owned    = pokeData[ id ]["Owned"];
+    var ball     = pokeData[ id ]["Ball"];
+    var nature   = pokeData[ id ]["Nature"];
+    var iv       = pokeData[ id ]["IVs"];
+    var dynamax  = pokeData[ id ]["Dynamax"];
+    var language = pokeData[ id ]["Region"];
+    if (owned) {
+      return (
+        <div className="col-xs-12"><div className="row pokemon">
+          <PokeIcon     name={ ball }   type="pokeball"            />
+          <PokeSelect   select="nature" data={ nature }            />
+          <PokeGeneric  data={ "IVs: " + iv + "/6" }               />
+          <PokeGeneric  data={ "G | Dynamax: " + dynamax + "/10" } />
+          <PokeGeneric  data={ "HA: Y/N" }                         />
+          <PokeSelect   select="region" data={ language }          />
+        </div></div>
+      )
+    }
+    return (
+      <div className="col-xs-12"><div className="row pokemon">
+      </div></div>
+    )
   }
 }
 
@@ -183,27 +193,34 @@ class Trainer extends React.Component {
           <p className="title">{ name }</p>
           <div className="col-xs-12"><div className="row">
             <div className="col-xs-2 trainer">
-              <img src={process.env.PUBLIC_URL + '/icons/' + name + '.png'} alt={ name }/>
+              <img src={process.env.PUBLIC_URL + '/icons/trainers/' + name + '.png'} alt={ name }/>
             </div>
             <div className="col-xs-10">
               <div className="row">
                 <div className="col-xs nes-container is-rounded">nothing actually works yet</div>
-                <div className="col-xs nes-container is-rounded">badges: </div>
+                <div className="col-xs nes-container is-rounded">badges: 8</div>
                 <div className="col-xs nes-container is-rounded">pokemon caught: 400</div>
               </div>
-              <div className="row">
-                <div className="col-xs nes-container is-rounded pokemon"><img src={process.env.PUBLIC_URL + '/icons/9.png'} alt="Inteleon"/></div>
-                <div className="col-xs nes-container is-rounded pokemon"><img src={process.env.PUBLIC_URL + '/icons/69.png'} alt="Ninetales"/></div>
-                <div className="col-xs nes-container is-rounded pokemon"><img src={process.env.PUBLIC_URL + '/icons/209.png'} alt="Meowstic"/></div>
-                <div className="col-xs nes-container is-rounded pokemon"><img src={process.env.PUBLIC_URL + '/icons/219.png'} alt="Sirfetch'd"/></div>
-                <div className="col-xs nes-container is-rounded pokemon"><img src={process.env.PUBLIC_URL + '/icons/81.png'} alt="Froslass"/></div>
-                <div className="col-xs nes-container is-rounded pokemon"><img src={process.env.PUBLIC_URL + '/icons/311.png'} alt="Toxtricity"/></div>
-              </div>
+              <Party/>
             </div>
           </div></div>
         </div>
       </div>
     )
+  }
+}
+
+class Party extends React.Component {
+  render () {
+    var party = [9, 69, 209, 219, 81, 311];
+
+    return (
+      <div className="row">
+        { party.map((id) => (
+          <div className="col-xs nes-container is-rounded pokemon"><img src={process.env.PUBLIC_URL + '/icons/pokemon/' + id + '.png'}/></div>
+        ))}
+      </div>
+    );
   }
 }
 

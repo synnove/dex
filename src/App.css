@@ -4,9 +4,13 @@ html, body, pre, code, kbd, samp {
 
 
 .nes-container.is-rounded {
-  margin: 2em;
+  margin: 10px;
   font-size: 0.75em;
-  padding: 1em;
+}
+
+.nes-container.is-rounded.pokedex {
+  margin: 20px;
+  font-size: 0.75em;
 }
 
 .container {
@@ -26,7 +30,11 @@ select {
 }
 
 .header {
+  margin: 0 0 2em 0;
+  height: 4em;
   background: #555555;
+  display: flex;
+  justify-content: center;
 }
 
 .region {
@@ -45,14 +53,14 @@ select {
 }
 
 .poke_icon img, .poke_ball img {
-  width: 5em;
+  width: 40px;
   height: auto;
   object-fit: cover;
-  margin: 0 0.5em 0 0;
+  margin: 0 1.25em 0 0;
 }
 
 .poke_ball img {
-  width: 2em;
+  width: 24px;
 }
 
 .poke_info, .poke_types, .poke_ball {
@@ -62,10 +70,6 @@ select {
 
 .poke_ball {
   width: 5em;
-}
-
-.pokemon_id {
-  width: 1em;
 }
 
 .poke_types img {
